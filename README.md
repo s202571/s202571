@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=webDesign&animation=fadeIn&fontColor=444444)
+![header](https://capsule-render.vercel.app/api?text=webDesign&animation=fadeIn&fontColor=444444&type=Waving)
 
 <h1 align="center">Hi 👋, I'm 은지</h1>
 <h3 align="center">나는 웹디자이너가 될 것이다.:smiley:</h3>
