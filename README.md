@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 은지</h1>
-<h3 align="center">나는 웹디자이너가 될 것이다.</h3>
+<h3 align="center">나는 웹디자이너가 될 것이다.:smiley:</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
